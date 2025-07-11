@@ -2,8 +2,8 @@ object F_AbsensiData: TF_AbsensiData
   Left = 0
   Top = 0
   Caption = 'Absensi'
-  ClientHeight = 632
-  ClientWidth = 884
+  ClientHeight = 631
+  ClientWidth = 881
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -13,7 +13,7 @@ object F_AbsensiData: TF_AbsensiData
   OnCreate = FormCreate
   TextHeight = 15
   object GroupBoxHutangPiutang: TGroupBox
-    Left = 11
+    Left = 8
     Top = 8
     Width = 865
     Height = 616
@@ -245,7 +245,7 @@ object F_AbsensiData: TF_AbsensiData
     User = ''
     Password = ''
     Protocol = ''
-    Left = 608
+    Left = 640
     Top = 88
   end
   object ZQuery: TZQuery

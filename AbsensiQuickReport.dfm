@@ -4963,8 +4963,8 @@ object F_AbsensiQuickReport: TF_AbsensiQuickReport
   end
   object ZQuery: TZQuery
     Params = <>
-    Left = 712
-    Top = 264
+    Left = 728
+    Top = 192
   end
   object ZConnection: TZConnection
     ControlsCodePage = cCP_UTF16
@@ -4976,7 +4976,7 @@ object F_AbsensiQuickReport: TF_AbsensiQuickReport
     User = ''
     Password = ''
     Protocol = ''
-    Left = 712
-    Top = 336
+    Left = 688
+    Top = 192
   end
 end
